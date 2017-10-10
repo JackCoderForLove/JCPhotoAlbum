@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>JCPhotoAlbum.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>JCPhotoAlbumWidget.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>C970C60A1F70F97E0017BB38</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C975E71C1F5FFADE00753C09</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C975E7351F5FFADE00753C09</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C975E7401F5FFADE00753C09</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

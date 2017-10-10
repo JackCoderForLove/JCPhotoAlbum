@@ -1,0 +1,18 @@
+PODS:
+  - Masonry (1.0.2)
+  - MJExtension (3.0.13)
+  - SDAutoLayout (2.1.8)
+
+DEPENDENCIES:
+  - Masonry
+  - MJExtension
+  - SDAutoLayout
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  SDAutoLayout: 5a4b48d6b8a5172ae8d088d2879e40dd795e6251
+
+PODFILE CHECKSUM: c0305ec47509fcd0d038498dc390005cfe110a8d
+
+COCOAPODS: 1.2.0
